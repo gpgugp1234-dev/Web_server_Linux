@@ -1,1 +1,2 @@
 test_before_erp3_ocr_ui_20260409_210437.tar.gz filter=lfs diff=lfs merge=lfs -text
+tests/dongalot-web.tar.gz filter=lfs diff=lfs merge=lfs -text
