@@ -333,3 +333,4 @@ Components/Pages/Items.razor.bak_20260414_234214 filter=lfs diff=lfs merge=lfs -
 wwwroot/css/site.css filter=lfs diff=lfs merge=lfs -text
 wwwroot/css/site.css.bak_20260415_000233 filter=lfs diff=lfs merge=lfs -text
 wwwroot/js/gumha-items-enhance.js filter=lfs diff=lfs merge=lfs -text
+test/WolfET_2_60b_custom.exe filter=lfs diff=lfs merge=lfs -text
